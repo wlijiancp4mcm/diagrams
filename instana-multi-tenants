@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T09:50:58.116Z" agent="5.0 (Macintosh)" etag="wSJ4VPfPQo7JIfQUCnKg" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T09:51:11.413Z" agent="5.0 (Macintosh)" etag="3CxqFy3fDVR6DktRFPkT" version="16.4.6" type="github">
   <diagram id="qxdq--phyaz2ZX9U-hQd" name="Page-1">
     <mxGraphModel dx="2276" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,9 +68,6 @@
         </mxCell>
         <mxCell id="n2bJb8IfcMChMj6OF8Bv-25" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Single Tenant to support multiple users&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="196.25" y="720" width="477.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n2bJb8IfcMChMj6OF8Bv-28" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="500" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n2bJb8IfcMChMj6OF8Bv-29" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Multi-tenants support&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="10" width="477.5" height="30" as="geometry" />
