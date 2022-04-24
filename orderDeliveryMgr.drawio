@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T03:10:21.512Z" agent="5.0 (Macintosh)" etag="GrHMdJ7PdIx_E8MJKQc6" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T03:14:04.887Z" agent="5.0 (Macintosh)" etag="IdtYnnIiAwSlC2iZp4ID" version="17.4.4" type="github">
   <diagram id="_fylSDSvpLwxbsqKzOXf" name="Page-1">
     <mxGraphModel dx="921" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="GoYC3unCIj-I3X4RpW2E-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="GoYC3unCIj-I3X4RpW2E-13">
           <mxGeometry y="70" width="260" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="GoYC3unCIj-I3X4RpW2E-16" value="+ createOrders(): void&#xa;+ processOrders(): void&#xa;+ printStatistics(): void&#xa;-  getAverageFoodWaitTime(): Interger&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GoYC3unCIj-I3X4RpW2E-13">
+        <mxCell id="GoYC3unCIj-I3X4RpW2E-16" value="+ createOrders(): void&#xa;+ processOrders(): void&#xa;+ printStatistics(): void&#xa;-  getAverageWaitTime(): Interger&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GoYC3unCIj-I3X4RpW2E-13">
           <mxGeometry y="108" width="260" height="104" as="geometry" />
         </mxCell>
         <mxCell id="GoYC3unCIj-I3X4RpW2E-17" value="CourierManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="60" width="280" height="180" as="geometry">
+          <mxGeometry x="480" y="60" width="280" height="210" as="geometry">
             <mxRectangle x="560" y="140" width="120" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -51,8 +51,8 @@
         <mxCell id="GoYC3unCIj-I3X4RpW2E-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="GoYC3unCIj-I3X4RpW2E-17">
           <mxGeometry y="80" width="280" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="GoYC3unCIj-I3X4RpW2E-20" value="+ dispatchCourier(Courier, order): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GoYC3unCIj-I3X4RpW2E-17">
-          <mxGeometry y="88" width="280" height="92" as="geometry" />
+        <mxCell id="GoYC3unCIj-I3X4RpW2E-20" value="+ getAverageWaitTime: Interger&#xa;+ dispatchCourier(Courier, order): type&#xa;+ printStatistics(): void&#xa;-  getAverageWaitTime: void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GoYC3unCIj-I3X4RpW2E-17">
+          <mxGeometry y="88" width="280" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
